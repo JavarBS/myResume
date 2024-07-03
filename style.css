@@ -1,0 +1,35 @@
+/* Universal */
+
+h2 {
+    color: #803D3B;
+    text-align: center;
+    padding: 30px;
+    background-color: #E4C59E;
+}
+.px-4 {
+    background-color:rgb(135, 92, 30)
+}
+
+hr {
+    border: dotted #eaf6f6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+.lead {
+    color:bisque;
+    text-shadow: 1px 1px 2px rgba(215, 137, 11, 0.719), 0 0 1em rgb(14, 14, 235), 0 0 0.2em rgb(87, 6, 6);
+}
+
+p {
+    text-align: center;
+}
+.container-modal {
+    text-align: center;
+}
+footer {
+    text-align: center;
+    padding: 5px;
+    background-color: #AF8260;
+    color:#803D3B;
+  }
